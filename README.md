@@ -55,6 +55,11 @@ inhaltlichen Regeln. Codex und andere Agenten lesen sie ebenfalls, wenn man sie 
 | Fallstudie | Kontext zur Beispielfirma Pfefferminzia |
 | Drill | Aufgabenblatt mit Rolle, Ergebnis und kopierfertigen Prompts |
 | Schluss | Zum Mitnehmen, Ausblick, Kontakt |
+| Vorstellung | Comicfigur des Dozenten stellt sich vor |
+| Team | Drei Dozentenkarten, Figur oder Platzhalter |
+
+Dazu die **Comicfigur** von Falk als Vektorgrafik in `assets/figur/` – vier Looks, sieben Posen,
+frei skalierbar; wie man sie einsetzt, steht in der `CLAUDE.md`.
 
 Die ersten beiden Folien der Datei sind Wegweiser (Anleitung und Übersicht) und fliegen aus dem
 echten Foliensatz raus.

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="362" viewBox="0 0 520 470" role="img" aria-label="Comicfigur Falk Uebernickel, held, wave"><g transform="translate(10 10)" opacity="0.9"><path d="M200 62 C280 62 326 132 322 218 C318 296 268 350 200 352 L228 384 C242 372 288 376 338 402 L352 470 L48 470 L62 402 C112 376 158 372 172 384 L200 352 C132 350 82 296 78 218 C74 132 120 62 200 62 Z" fill="#111"/></g>
+<path d="M70 392 C30 420 20 470 26 470 L374 470 C380 470 370 420 330 392 C290 380 240 376 200 376 C160 376 110 380 70 392 Z" fill="#D62828" stroke="#111" stroke-width="5" stroke-linejoin="round"/>
+<path d="M172 336 L172 384 L228 384 L228 336" fill="#F2C9A6" stroke="#111" stroke-width="5" stroke-linejoin="round"/>
+<path d="M176 340 Q200 364 224 340" fill="#E0AE86" opacity="0.7"/>
+<path d="M48 470 L62 402 C112 376 158 372 176 372 L200 408 L224 372 C242 372 288 376 338 402 L352 470 Z" fill="#2456C7" stroke="#111" stroke-width="5" stroke-linejoin="round"/>
+<path d="M150 376 Q200 392 250 376 L236 372 Q200 380 164 372 Z" fill="#2456C7" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+<path d="M200 402 L236 420 L228 452 L200 466 L172 452 L164 420 Z" fill="#F9D949" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+<text x="200" y="447" text-anchor="middle" font-family="Bangers, Impact, sans-serif" font-size="30" fill="#111">AI</text>
+<path d="M322 410 C348 392 372 340 372 300 L400 306 C400 352 372 420 344 440 Z" fill="#2456C7" stroke="#111" stroke-width="5" stroke-linejoin="round"/><path d="M366 300 C356 268 362 250 376 248 C384 246 388 258 384 270 L392 244 C400 236 410 244 406 256 L416 240 C426 236 432 246 426 258 L430 252 C440 250 444 262 438 272 L424 300 C416 314 396 318 380 310 Z" fill="#F2C9A6" stroke="#111" stroke-width="5" stroke-linejoin="round"/><path d="M372 262 L372 248 M390 262 L392 250 M406 264 L412 254 M420 274 L428 262" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<path d="M200 62 C280 62 326 132 322 218 C318 296 268 350 200 352 C132 350 82 296 78 218 C74 132 120 62 200 62 Z" fill="#F2C9A6" stroke="#111" stroke-width="5" stroke-linejoin="round"/>
+<ellipse cx="80" cy="222" rx="13" ry="21" fill="#F2C9A6" stroke="#111" stroke-width="5"/>
+<ellipse cx="320" cy="222" rx="13" ry="21" fill="#F2C9A6" stroke="#111" stroke-width="5"/>
+<path d="M84 214 q6 10 0 20 M316 214 q-6 10 0 20" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="158" cy="108" rx="26" ry="11" fill="#FFFFFF" opacity="0.75" transform="rotate(-25 158 108)"/>
+<path d="M79 226 C80 300 132 352 200 356 C268 352 320 300 321 226 C302 262 258 270 240 262 C232 250 168 250 160 262 C142 270 98 262 79 226 Z" fill="#6E5A45" stroke="#111" stroke-width="5" stroke-linejoin="round"/>
+<path d="M150 318 C170 344 230 344 250 318 C236 328 164 328 150 318 Z" fill="#A8A29A" opacity="0.9"/>
+<path d="M90 246 C98 284 116 308 138 322 C116 302 102 276 90 246 Z M310 246 C302 284 284 308 262 322 C284 302 298 276 310 246 Z" fill="#A8A29A" opacity="0.8"/>
+<path d="M150 262 C168 246 232 246 250 262 C232 258 168 258 150 262 Z" fill="#6E5A45" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+<path d="M200 200 L186 246 Q200 256 214 246" fill="none" stroke="#111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="158" cy="206" rx="21" ry="13" fill="#FFFFFF" stroke="#111" stroke-width="4"/>
+<circle cx="160" cy="207" r="9" fill="#4A7FC1" stroke="#111" stroke-width="2"/>
+<circle cx="160" cy="207" r="4.5" fill="#111"/><circle cx="163" cy="203" r="2.2" fill="#FFFFFF"/>
+<ellipse cx="242" cy="206" rx="21" ry="13" fill="#FFFFFF" stroke="#111" stroke-width="4"/>
+<circle cx="244" cy="207" r="9" fill="#4A7FC1" stroke="#111" stroke-width="2"/>
+<circle cx="244" cy="207" r="4.5" fill="#111"/><circle cx="247" cy="203" r="2.2" fill="#FFFFFF"/>
+<path d="M130 184 Q158 170 186 182 M214 182 Q242 170 270 184" fill="none" stroke="#8A6A45" stroke-width="8" stroke-linecap="round"/>
+<path d="M126 224 q-8 8 -4 18 M274 224 q8 8 4 18" fill="none" stroke="#111" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+<path d="M148 278 Q200 338 252 278 Q200 296 148 278 Z" fill="#3A1F1F" stroke="#111" stroke-width="4" stroke-linejoin="round"/>
+<path d="M158 284 Q200 298 242 284 L240 294 Q200 312 160 294 Z" fill="#FFFFFF"/>
+</svg>
