@@ -85,7 +85,8 @@ keine passt.
 | `.mono` | JetBrains Mono. Für Code im Fliesstext, Dateinamen |
 | `.caption` | Gelber Kasten mit schwarzem Rand und Schlagschatten — der Eyebrow oben links |
 | `.panel` | Weisser Kasten, 4 px Rand, 8 px Schlagschatten — der Standard-Container |
-| `.bubble` | Sprechblase mit Zipfel unten links — für Fragen ans Publikum und Prompts |
+| `.bubble` | Sprechblase, Zipfel unten links; `.bubble.r` Zipfel unten rechts — **nur mit Sprecher** (siehe Regel unten) |
+| `.prompt` | Prompt-Karte: weisser Kasten mit blauem Balken links, ohne Zipfel — für Text, den die Teilnehmenden Claude sagen |
 | `.code` | Nachtblaues Code-Panel; darin `.k` Schlüsselwort, `.s` String, `.c` Kommentar, `.n` Zahl |
 | `.num` | Rote Ziffer im Kreis — für nummerierte Schritte |
 | `.tag` | Kleiner Rahmen-Tag; Hintergrundfarbe setzt die Bedeutung |
@@ -194,6 +195,11 @@ Dazu je drei Gesichter ohne Pose (`falk-hemd-none-talk`, `johannes-schwarz-none-
 eigenständig bleibt) oder als `<img src="assets/figur/falk-hemd-wave.svg">` verlinken. Breite über
 `width` setzen, die Höhe folgt. Soll die Figur nach links zeigen: `style="transform: scaleX(-1)"`
 auf das umschliessende `<div>`.
+
+**Sprechblasen nur mit Sprecher.** Eine `.bubble` steht nie allein: Neben ihrem Zipfel sitzt immer
+eine Figur, die spricht (Falk oder Johannes, 130–200 px). Sitzt die Figur rechts, `.bubble.r`
+verwenden, damit der Zipfel zu ihr zeigt. Text, den die Teilnehmenden Claude sagen sollen, ist keine
+Rede und bekommt die `.prompt`-Karte. Ein Merksatz ohne Sprecher gehört in ein `.panel`.
 
 **Regeln:** Höchstens eine Figur pro Folie. Nie über Text oder Panels, sondern in die freie Ecke
 (meist unten rechts, `top` ab 490 px, Breite 160–200 px). Nur dort, wo sie etwas kommentiert
