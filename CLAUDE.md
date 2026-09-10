@@ -178,15 +178,16 @@ synthetisch. Der Hinweis darauf gehört auf die Fallstudien-Folie.
 
 ## Die Comicfigur
 
-Falk Uebernickel gibt es als Comicfigur im selben Stil: Vektor-SVG, kein Foto. Die Dateien liegen
-unter `assets/figur/` und heissen `falk-<look>-<pose>.svg`:
+Falk Uebernickel und Johannes Hötter gibt es als Comicfiguren im selben Stil: Vektor-SVG, kein Foto.
+Die Dateien liegen unter `assets/figur/` und heissen `<person>-<look>-<pose>.svg`:
 
 | Teil | Werte |
 |---|---|
-| `look` | `hemd` (weisses Hemd, Vortrag) · `cap` (Cap und dunkle Jacke) · `brille` (runde Brille, Streifenshirt) · `held` (Cape, Gimmick) |
+| `person` | `falk` · `johannes` |
+| `look` | Falk: `hemd` (weisses Hemd, Vortrag) · `cap` (Cap und dunkle Jacke) · `brille` (runde Brille, Streifenshirt) · `held` (Cape) — Johannes: `schwarz` (schwarzes Hemd, Vortrag) · `hemd` · `held` |
 | `pose` | `none` · `wave` (winken) · `point` (zeigen, nach rechts) · `laptop` · `think` (Hand am Kinn) · `thumbs` (Daumen hoch) · `clock` (Stoppuhr) |
 
-Dazu drei Gesichter ohne Pose (`falk-hemd-none-talk`, `-think`, `-wow`) und die Silhouette
+Dazu je drei Gesichter ohne Pose (`falk-hemd-none-talk`, `johannes-schwarz-none-talk`, `-think`, `-wow`) und die Silhouette
 `platzhalter-foto-folgt.svg` für Personen, von denen noch kein Bild vorliegt.
 
 **Einsetzen:** Den Inhalt der SVG-Datei direkt in die Folie kopieren (Inline-SVG, damit die Datei
@@ -198,8 +199,8 @@ auf das umschliessende `<div>`.
 (meist unten rechts, `top` ab 490 px, Breite 160–200 px). Nur dort, wo sie etwas kommentiert
 (Sprechblase, Caption daneben). Auf Vorstellung und Team ist sie gross (400–470 px) und trägt die Folie.
 
-Die anderen Dozenten bekommen Figuren nach demselben Bauplan, sobald Fotos vorliegen; bis dahin
-steht die Platzhalter-Silhouette in der Team-Vorlage.
+Dozent:in 3 bekommt eine Figur nach demselben Bauplan, sobald ein Foto vorliegt; bis dahin steht die
+Platzhalter-Silhouette in der Team-Vorlage.
 
 ## Präsentieren und exportieren
 
